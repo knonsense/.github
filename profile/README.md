@@ -5,6 +5,9 @@ This Organization is for team KnonSense's final group project for ops-201d8. Her
 
 Below you will find information and links for our members, repositories and any related resources and material.  
 
+
+<br>
+
 ### Problem Domain:
 
 A small CGI company was founded by two high-school friends who started out making videos on their phones. Now they employ a
@@ -32,6 +35,7 @@ few more artists and a business manager.
 | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) |
 
 
+<br>
 
 ### Presentations
 
@@ -39,9 +43,15 @@ few more artists and a business manager.
 
 [Video]()
 
+
+<br>
+
 ### Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
+
+
+<br>
 
 ### Repositories
 
