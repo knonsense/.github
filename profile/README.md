@@ -18,19 +18,19 @@ few more artists and a business manager.
 
 ## Team Members
 
-| Ed Ayala | Adrian Mundo | Dustin Haggett |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) |
-| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) |
+| Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
+|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
+| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) |
 
-| Raphael Chookagian | Documentation | SOPs |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
-| [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
+| Documentation | SOPs |
+|:-----------------------:|:----------------------:|
+|  [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
+| [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
 
 ## Presentations
 
-[SlideShow](https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing)
+[SlideShow]([https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf))
 
 [Video of presentation]()
 
