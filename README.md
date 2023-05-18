@@ -1,4 +1,4 @@
-# Documentation README
+## Welcome to our Team KnonSense Github Organization. Below you will find information and links for our members, repositories and any related resources and material.  
 
 ## Team KnonSense Members
 
