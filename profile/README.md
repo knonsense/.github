@@ -30,7 +30,7 @@ few more artists and a business manager.
 
 ## Presentations
 
-[SlideShow]([https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf))
+[SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
 
 [Video of presentation]()
 
