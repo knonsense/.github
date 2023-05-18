@@ -26,10 +26,7 @@ few more artists and a business manager.
 | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
 | [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) |
 
-| Documentation | SOPs |
-|:-----------------------:|:----------------------:|
-|  [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
-| [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
+
 
 ### Presentations
 
