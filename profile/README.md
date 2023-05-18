@@ -21,7 +21,8 @@ few more artists and a business manager.
 
 
 
-
+<br>
+<br>
 ### Team Members
 
 | Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
