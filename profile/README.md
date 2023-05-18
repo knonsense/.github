@@ -5,7 +5,7 @@ This Organization is for team KnonSense's final group project for ops-201d8. Her
 
 Below you will find information and links for our members, repositories and any related resources and material.  
 
-## Problem Domain:
+### Problem Domain:
 
 A small CGI company was founded by two high-school friends who started out making videos on their phones. Now they employ a
 few more artists and a business manager. 
@@ -17,6 +17,9 @@ few more artists and a business manager.
 * The employees are proficient in multiple OS’s (Linux, Windows, MacOs).
 
 * Consolidate data to centralized location.
+
+
+
 
 
 ### Team Members
