@@ -37,7 +37,7 @@ few more artists and a business manager.
 
 [SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
 
-[Video of presentation]()
+[Video]()
 
 ### Project Management
 
