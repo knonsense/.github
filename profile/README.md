@@ -6,6 +6,15 @@
 A small CGI company was founded by two high-school friends who started out making videos on their phones. Now they employ a
 few more artists and a business manager. 
 
+* Plans for expansion from home to office.
+
+* Transition from BYOD to company provided devices.
+
+* The employees are proficient in multiple OS’s (Linux, Windows, MacOs).
+
+* Consolidate data to centralized location.
+
+
 
 ## Team Members
 
