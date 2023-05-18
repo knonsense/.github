@@ -19,8 +19,7 @@ few more artists and a business manager.
 * Consolidate data to centralized location.
 
 
-
-## Team Members
+### Team Members
 
 | Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
 |:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
@@ -32,17 +31,17 @@ few more artists and a business manager.
 |  [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
 | [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
 
-## Presentations
+### Presentations
 
 [SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
 
 [Video of presentation]()
 
-## Project Management
+### Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
 
-## Repositories
+### Repositories
 
 [Documentation](https://github.com/knonsense/Documentation)
 
