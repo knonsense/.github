@@ -1,7 +1,5 @@
 ## Welcome to our Team KnonSense Github Organization. Below you will find information and links for our members, repositories and any related resources and material.  
 
-## Team KnonSense Members
-
 | Ed Ayala | Adrian Mundo | Dustin Haggett |
 |:----------------------:|:-----------------------:|:----------------------:|
 | [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) |
