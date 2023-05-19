@@ -1,5 +1,6 @@
 <img width="407" alt="Team_KnonSense" src="https://github.com/knonsense/.github/assets/75862002/243ecdbb-d203-4246-9d87-15462106a6d8">
 
+<br>
 
 ## Welcome to our Team KnonSense Github Organization!
 
