@@ -1,26 +1,59 @@
-## Welcome to our Team KnonSense Github Organization. Below you will find information and links for our members, repositories and any related resources and material.  
+## Welcome to our Team KnonSense Github Organization!
 
-| Ed Ayala | Adrian Mundo | Dustin Haggett |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) |
-| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) |
+This Organization is for team KnonSense's final group project for ops-201d8. Here you can find out more about the scenerio we were given and the problem domain. There are three repositories for this organization. We have the Documentations repository, where you will find all the documentation that is part of this project. The Scripts repository contains our scripts we used for this project. The presentations repo contains a pdf of our slideshow as well as a link to the slideshow on google docs. The video of our presentation will be added to that repository once available.
 
-| Raphael Chookagian | Documentation | SOPs |
-|:----------------------:|:-----------------------:|:----------------------:|
-| [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) | [System Selection](./SystemSelection.md) | [SOPs](https://github.com/knonsense/Documentation/tree/dev/SOPs) |
-| [Github](https://github.com/cesarderio) | [Team Agreement](./TeamAgreement.md) | [Scripts](https://github.com/knonsense/Scripts) |
 
-## Presentations
+Below you will find information and links for our members, repositories and any related resources and material.  
 
-[SlideShow](https://docs.google.com/presentation/d/1Pau1Qb25T_SS32_VGzgY78CZidT17A87NbwBKVAJXOY/edit?usp=sharing)
 
-[Video of presentation]()
+<br>
 
-## Project Management
+### Problem Domain:
+
+A small CGI company was founded by two high-school friends who started out making videos on their phones. Now they employ a
+few more artists and a business manager. 
+
+* Plans for expansion from home to office.
+
+* Transition from BYOD to company provided devices.
+
+* The employees are proficient in multiple OS’s (Linux, Windows, MacOs).
+
+* Consolidate data to centralized location.
+
+
+
+
+<br>
+
+
+### Team Members
+
+| Ed Ayala | Adrian Mundo | Dustin Haggett | Raphael Chookagain |
+|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+| [Linkedin](https://www.linkedin.com/in/eddie-ayala3/) | [Linkedin](http://linkedin.com/in/adrian-mundo) | [Linkedin](https://www.linkedin.com/in/dustinhaggett) | [Linkedin](https://www.linkedin.com/in/raphaelchookagian/) |
+| [Github](https://github.com/EdMandoo1) | [Github](https://github.com/amundo1) | [Github](https://github.com/dustinhaggett) | [Github](https://github.com/cesarderio) |
+
+
+<br>
+
+### Presentations
+
+[SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
+
+[Video]()
+
+
+<br>
+
+### Project Management
 
 [Trello Board](https://trello.com/b/vUcQohwr/project-management)
 
-## Repositories
+
+<br>
+
+### Repositories
 
 [Documentation](https://github.com/knonsense/Documentation)
 
