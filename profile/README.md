@@ -37,18 +37,19 @@ few more artists and a business manager.
 
 <br>
 
+### Project Management
+
+[Trello Board](https://trello.com/b/vUcQohwr/project-management)
+
+
+
+<br>
+
 ### Presentations
 
 [SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
 
 [Video]()
-
-
-<br>
-
-### Project Management
-
-[Trello Board](https://trello.com/b/vUcQohwr/project-management)
 
 
 <br>
