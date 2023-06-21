@@ -51,7 +51,7 @@ few more artists and a business manager.
 
 ### Presentations
 
-[SlideShow](https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)
+[SlideShow][(https://github.com/knonsense/Presentations/blob/main/TeamKnonSense.pdf)]
 
 [Video]()
 
